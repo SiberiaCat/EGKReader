@@ -1,0 +1,5 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "egkreader";
+CFBundleShortVersionString = "2.0";
+CFBundleGetInfoString = "egkreader 2.0, Copyright 2017 Procedia GmbH.";

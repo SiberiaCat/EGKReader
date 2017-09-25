@@ -1,0 +1,32 @@
+﻿  4DPlugin.cpp
+  egkreader.cpp
+  egkreader_win.cpp
+  pasprintf.cpp
+pasprintf.cpp(63): warning C4018: ">": Konflikt zwischen "signed" und "unsigned"
+  4DPluginAPI.c
+4D Plugin API\4DPluginAPI.c(1481): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "PA_Pointer" unterschiedlich
+4D Plugin API\4DPluginAPI.c(2045): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "PA_Pointer" unterschiedlich
+4D Plugin API\4DPluginAPI.c(2078): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "PA_Pointer" unterschiedlich
+4D Plugin API\4DPluginAPI.c(2590): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "PA_Rect *" unterschiedlich
+4D Plugin API\4DPluginAPI.c(3013): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "char *" unterschiedlich
+4D Plugin API\4DPluginAPI.c(3033): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "void *" unterschiedlich
+4D Plugin API\4DPluginAPI.c(4720): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "char *" unterschiedlich
+4D Plugin API\4DPluginAPI.c(4721): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "char *" unterschiedlich
+4D Plugin API\4DPluginAPI.c(4767): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "char *" unterschiedlich
+4D Plugin API\4DPluginAPI.c(4768): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "char *" unterschiedlich
+4D Plugin API\4DPluginAPI.c(5065): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "PA_Variable *" unterschiedlich
+4D Plugin API\4DPluginAPI.c(5104): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "PA_Handle" unterschiedlich
+4D Plugin API\4DPluginAPI.c(5161): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "PA_Variable *" unterschiedlich
+4D Plugin API\4DPluginAPI.c(6602): warning C4047: "return": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "PA_Handle" unterschiedlich
+4D Plugin API\4DPluginAPI.c(6610): warning C4047: "return": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "PA_WindowRef" unterschiedlich
+4D Plugin API\4DPluginAPI.c(6707): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "PA_Rect *" unterschiedlich
+4D Plugin API\4DPluginAPI.c(6801): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "PA_Rect *" unterschiedlich
+4D Plugin API\4DPluginAPI.c(7124): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "PA_Unichar *" unterschiedlich
+4D Plugin API\4DPluginAPI.c(7125): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "PA_Unichar *" unterschiedlich
+4D Plugin API\4DPluginAPI.c(7126): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "PA_Unichar *" unterschiedlich
+4D Plugin API\4DPluginAPI.c(7127): warning C4047: "=": Anzahl der Dereferenzierungen bei "sLONG_PTR" und "PA_Unichar *" unterschiedlich
+     Bibliothek "C:\Users\Admin\Documents\Workbench\EGKPlugin_170807\_build\egkreader.bundle\Contents\Windows\egkreader.lib" und Objekt "C:\Users\Admin\Documents\Workbench\EGKPlugin_170807\_build\egkreader.bundle\Contents\Windows\egkreader.exp" werden erstellt.
+  Code wird generiert.
+  All 23 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  4D Plugin-VS9.vcxproj -> C:\Users\Admin\Documents\Workbench\EGKPlugin_170807\_build\egkreader.bundle\Contents\Windows\egkreader.4DX
